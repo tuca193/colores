@@ -1,6 +1,5 @@
 # Colores
 
-<<<<<<< HEAD
 
 use this, your console will be coloooooorful
 
@@ -28,6 +27,6 @@ Colors -
 # License
 
 * MIT
-=======
-use this.
->>>>>>> 13f8236474472fc90d39756f2c1d292de1eaab62
+
+
+
